@@ -10,7 +10,7 @@
 ### Languages and Tools 🛠 
 
 
-![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![C](https://img.shields.io/badge/--A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-c++-A8B9CC?style=flat-square&logo=c++&logoColor=ffffff)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)

@@ -36,10 +36,9 @@
 ![Yarn](https://img.shields.io/badge/yarn-593D88?style=for-the-badge&logo=yarn&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-593D88?style=for-the-badge&logo=firebase&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/github-593D88?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-593D88?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows](https://img.shields.io/badge/Windows-593D88?style=for-the-badge&logo=Windows&logoColor=white)
 
 <br/>

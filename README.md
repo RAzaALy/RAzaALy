@@ -1,16 +1,14 @@
 ## Hello! I'm RAza ALy a Full Stack Developer
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-# About Me
-<br/>
+### About Me
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React,Nextjs etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😄
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play badminton 🏸.
-- 
-### Languages and Tools 🛠 
 
+### Languages and Tools 🛠 
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)

@@ -1,7 +1,7 @@
 
 
-## Hello! I'm Brijesh Dhanani a Full Stack Developer
-### 👨‍💻 Languages and Tools
+## Hello! I'm RAza ALy a Full Stack Developer
+### 🧰 Languages and Tools
 
 <br />
 

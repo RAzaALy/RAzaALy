@@ -37,6 +37,7 @@
 ![Git](https://img.shields.io/badge/git-593D88?style=for-the-badge&logo=git&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-593D88?style=for-the-badge&logo=json&logoColor=white)
 ![JSX](https://img.shields.io/badge/jsx-593D88?style=for-the-badge&logo=jsx&logoColor=white)
+
 ![Npm](https://img.shields.io/badge/npm-593D88?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-593D88?style=for-the-badge&logo=yarn&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-593D88?style=for-the-badge&logo=firebase&logoColor=white)

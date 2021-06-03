@@ -50,5 +50,5 @@
 ![Windows](https://img.shields.io/badge/Windows-593D88?style=for-the-badge&logo=Windows&logoColor=white)
 
 <br/>
-## Some Fun
+
 ![Gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)

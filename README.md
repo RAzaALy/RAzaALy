@@ -1,4 +1,4 @@
-![Gif](https://gph.is/g/apK2rwW)
+![Gif](https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif)
 
 ## Hello! I'm RAza ALy a Full Stack Developer
 

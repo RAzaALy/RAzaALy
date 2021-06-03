@@ -30,11 +30,11 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Yarn](https://img.shields.io/badge/-yarn-CB3837?style=flat-square&logo=yarn)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
+![Markdown](https://img.shields.io/badge/markdown-593D88?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/git-593D88?style=for-the-badge&logo=git&logoColor=white)
+![Npm](https://img.shields.io/badge/npm-593D88?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-593D88?style=for-the-badge&logo=yarn&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-593D88?style=for-the-badge&logo=firebase&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)

@@ -1,5 +1,5 @@
 ## Hello! I'm RAza ALy a Full Stack Developer
-<img align="center" alt="gif" height="200px" src="https://media.giphy.com/media/YnexM9LwlwGu4Z1QnS/giphy.gif"/>
+ ![]("https://media.giphy.com/media/YnexM9LwlwGu4Z1QnS/giphy.gif")
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 # Who I am?

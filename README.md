@@ -1,4 +1,4 @@
-<img src="https://gph.is/g/apK2rwW" width="229px">
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ## Hello! I'm RAza ALy a Full Stack Developer
 

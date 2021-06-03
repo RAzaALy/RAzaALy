@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/YnexM9LwlwGu4Z1QnS/giphy.gif" width="29px">
+<img src="https://gph.is/g/apK2rwW" width="229px">
 
 ## Hello! I'm RAza ALy a Full Stack Developer
 

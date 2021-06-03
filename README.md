@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Gif](https://media.giphy.com/media/YnexM9LwlwGu4Z1QnS/giphy.gif)
 
 ## Hello! I'm RAza ALy a Full Stack Developer
 

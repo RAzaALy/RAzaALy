@@ -1,3 +1,11 @@
+![Hey there, I'm RAza ALy. I'm a software developer, a fronted web developer. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+
+
+
+
+
+
+
 ### Hi there 👋
 
 

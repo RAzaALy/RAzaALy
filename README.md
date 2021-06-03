@@ -1,15 +1,6 @@
-![Hey there, I'm RAza ALy. I'm a software developer, a fronted web developer. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
-
-
-
-
-
 
 
 ### Hi there 👋
-
-
-**RAzaALy/RAzaALy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

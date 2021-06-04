@@ -53,8 +53,8 @@
 
 
 <p>
-   <code><img width="15%" height="10%" src="https://cdn.iconscout.com/icon/free/png-64/c-58-1175247.png"></code>
-   <code><img width="15%" src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png"></code>
+   <code><img width="10%"  src="https://cdn.iconscout.com/icon/free/png-64/c-58-1175247.png"></code>
+   <code><img width="10%" src="https://cdn.iconscout.com/icon/free/png-64/c-4-226082.png"></code>
   
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>

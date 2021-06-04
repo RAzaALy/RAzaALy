@@ -8,9 +8,9 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play badminton 🏸.
 <br />
- <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" />
- <br />
 ### Languages and Tools 🛠 
+
+ <img align="center" alt="GIF" height="120px" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" />
 
 <p>
    <code><img width="10%"  src="https://imguploader.net/if/sQVO4XWTU7Yu.svg"></code>

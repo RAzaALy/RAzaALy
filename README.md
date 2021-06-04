@@ -1,4 +1,4 @@
-![image](https://github.com/soriano-dev/soriano-dev/blob/master/dino.gif)
+![image](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif)
 
 ## Hello! I'm RAza ALy a Full Stack Developer
 

@@ -56,8 +56,8 @@
    <code><img width="10%"  src="https://imguploader.net/if/sQVO4XWTU7Yu.svg"></code>
    <code><img width="10%" src="https://imguploader.net/if/QQcGwbHIPrin.svg"></code>
   
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="15%" src="https://imguploader.net/if/NdEtBrWFMfIW.svg"></code>
+  <code><img width="15%" src="https://imguploader.net/if/JBdPVNonHxJa.svg"></code>
   <code><img width="15%" src="https://imguploader.net/if/U5xPL7DvvZPE.svg"></code>
 
   <br />

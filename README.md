@@ -1,5 +1,6 @@
 ## Hello! I'm RAza ALy a Full Stack Developer
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
+
 # Who I am ?
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React,Redux,Nextjs etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😄

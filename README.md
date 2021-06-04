@@ -75,10 +75,8 @@
   <code><img width="15%" src="https://imguploader.net/if/HBqxjLBwJe0R.svg"></code>
   <code><img width="15%" src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg"></code>
   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
+  <code><img width="15%" src="https://imguploader.net/if/5laSGnWFyEGg.svg"></code>
   <code><img width="15%" src="https://imguploader.net/if/BVGRO42f8dLX.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>

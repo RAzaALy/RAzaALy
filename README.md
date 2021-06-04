@@ -10,8 +10,6 @@
 <br />
 ### Languages and Tools 🛠 
 
- <img align="center" alt="GIF" height="120px" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" />
-
 <p>
    <code><img width="10%"  src="https://imguploader.net/if/sQVO4XWTU7Yu.svg"></code>
    <code><img width="10%" src="https://imguploader.net/if/QQcGwbHIPrin.svg"></code>

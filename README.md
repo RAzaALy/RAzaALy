@@ -78,8 +78,8 @@
   <code><img width="15%" src="https://imguploader.net/if/5laSGnWFyEGg.svg"></code>
   <code><img width="15%" src="https://imguploader.net/if/BVGRO42f8dLX.svg"></code>
   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img width="15%" src="https://imguploader.net/if/jhYssZzjiE5S.svg"></code>
+  <code><img width="15%" src="https://imguploader.net/if/MtZ1UGYRP3p8.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
    <br />

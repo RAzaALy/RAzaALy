@@ -81,7 +81,7 @@
   <code><img width="15%" src="https://imguploader.net/if/jhYssZzjiE5S.svg"></code>
   <code><img width="15%" src="https://imguploader.net/if/MtZ1UGYRP3p8.svg"></code>
   <code><img width="15%" src="https://imguploader.net/if/gxuBCIi8OZl1.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+  <code><img width="15%" src="https://imguploader.net/if/gUkZXWAHUlo3.svg"></code>
    <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>

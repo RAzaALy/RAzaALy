@@ -9,6 +9,7 @@
 - ⚡ Fun fact: I love to play badminton 🏸.
 <br />
  <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" />
+ <br />
 ### Languages and Tools 🛠 
 
 <p>

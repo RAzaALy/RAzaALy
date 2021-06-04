@@ -62,7 +62,7 @@
    
    <br />
   <code><img width="15%" src="https://imguploader.net/if/yJWZRgVUbtnp.svg"></code>
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+   <code><img width="15%" height="30%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://imguploader.net/if/o32nXVGGqv3J.svg"></code>
   <code><img width="15%" src="https://imguploader.net/if/0FwrBlyxlRrY.svg"></code>

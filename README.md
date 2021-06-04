@@ -49,6 +49,9 @@
   <code><img width="15%" src="https://imguploader.net/if/MuVjmGoILJM4.svg"></code>
   <code><img width="15%" src="https://imguploader.net/if/NpwdltZrKxU7.svg"></code>
   <code><img width="15%" src="https://imguploader.net/if/VJuQJGCkSn9R.svg"></code>
+   <br/>
+   <code><img width="15%" src="https://imguploader.net/if/ionLlyZGtbUI.svg"</code>
+         <code><img width="15%" src="https://imguploader.net/if/KvDLPivzvyxK.svg"</code>
 </p>
 <br/>
 

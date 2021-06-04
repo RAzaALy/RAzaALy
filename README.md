@@ -63,7 +63,7 @@
   <br />
   <code><img width="15%" src="https://imguploader.net/if/o32nXVGGqv3J.svg"></code>
   <code><img width="15%" src="https://imguploader.net/if/0FwrBlyxlRrY.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-ar21.svg"></code>
+  <code><img width="15%" src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>

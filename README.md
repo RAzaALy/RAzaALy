@@ -2,13 +2,13 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
 
-# Who I am?
- <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" />
+# Who I am ?
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React,Redux,Nextjs etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😄
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play badminton 🏸.
-
+<br />
+ <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" />
 ### Languages and Tools 🛠 
 
 <p>

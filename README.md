@@ -61,10 +61,10 @@
   <code><img width="15%" src="https://imguploader.net/if/NdEtBrWFMfIW.svg"></code>
    
    <br />
-   <code><img width="15%" src="https://imguploader.net/if/1FbXZ5FhEUr9.svg"></code>
   <code><img width="15%" src="https://imguploader.net/if/yJWZRgVUbtnp.svg"></code>
-   <code><img width="15%" src="https://imguploader.net/if/89K9jCr7nTCD.svg"></code>
-   <code><img width="15%" src="https://imguploader.net/if/HUT9hpjVufpM.svg"></code>
+  <code><img width="15%" src="https://imguploader.net/if/89K9jCr7nTCD.svg"></code>
+  <code><img width="15%" src="https://imguploader.net/if/HUT9hpjVufpM.svg"></code>
+  <code><img width="15%" src="https://imguploader.net/if/1FbXZ5FhEUr9.svg"></code>
   <br />
   <code><img width="15%" src="https://imguploader.net/if/o32nXVGGqv3J.svg"></code>
   <code><img width="15%" src="https://imguploader.net/if/0FwrBlyxlRrY.svg"></code>
@@ -84,11 +84,6 @@
   <code><img width="15%" src="https://imguploader.net/if/gxuBCIi8OZl1.svg"></code>
   <code><img width="15%" src="https://imguploader.net/if/gUkZXWAHUlo3.svg"></code>
    <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>

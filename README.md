@@ -56,7 +56,7 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="15%" src="https://files.fm/embed/playerv2?hash=hykybcn8m&w=100%&h=auto" i></code>
+  <code><img width="15%" src="https://files.fm/embed/playerv2?hash=hykybcn8m&w=100%&h=auto"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="15%" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/redux.svg"></code>

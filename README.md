@@ -32,22 +32,22 @@
   <code><img width="5%" height="3%"  src="https://imguploader.net/if/HBqxjLBwJe0R.svg"></code>
   <code><img width="5%" height="3%"  src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg"></code>
   <br />
-  <code><img width="5%" src="https://imguploader.net/if/5laSGnWFyEGg.svg"></code>
-  <code><img width="5%" src="https://imguploader.net/if/BVGRO42f8dLX.svg"></code>
-   <code><img width="5%" src="https://imguploader.net/if/28jRMgow8x4g.svg"></code>
+  <code><img width="5%" height="3%" src="https://imguploader.net/if/5laSGnWFyEGg.svg"></code>
+  <code><img width="5%" height="3%" src="https://imguploader.net/if/BVGRO42f8dLX.svg"></code>
+   <code><img width="5%" height="3%" src="https://imguploader.net/if/28jRMgow8x4g.svg"></code>
   <br />
-  <code><img width="5%" src="https://imguploader.net/if/jhYssZzjiE5S.svg"></code>
-  <code><img width="5%" src="https://imguploader.net/if/MtZ1UGYRP3p8.svg"></code>
-  <code><img width="5%" src="https://imguploader.net/if/gxuBCIi8OZl1.svg"></code>
-  <code><img width="5%" src="https://imguploader.net/if/gUkZXWAHUlo3.svg"></code>
+  <code><img width="5%" height="3%" src="https://imguploader.net/if/jhYssZzjiE5S.svg"></code>
+  <code><img width="5%" height="3%" src="https://imguploader.net/if/MtZ1UGYRP3p8.svg"></code>
+  <code><img width="5%" height="3%" src="https://imguploader.net/if/gxuBCIi8OZl1.svg"></code>
+  <code><img width="5%" height="3%" src="https://imguploader.net/if/gUkZXWAHUlo3.svg"></code>
    <br />
-   <code><img width="5%" src="https://imguploader.net/if/7vgzFLEOHscl.svg"></code>
-  <code><img width="5%" src="https://imguploader.net/if/MuVjmGoILJM4.svg"></code>
-  <code><img width="5%" src="https://imguploader.net/if/NpwdltZrKxU7.svg"></code>
-  <code><img width="5%" src="https://imguploader.net/if/VJuQJGCkSn9R.svg"></code>
+   <code><img width="5%" height="3%" src="https://imguploader.net/if/7vgzFLEOHscl.svg"></code>
+  <code><img width="5%" height="3%" src="https://imguploader.net/if/MuVjmGoILJM4.svg"></code>
+  <code><img width="5%" height="3%" src="https://imguploader.net/if/NpwdltZrKxU7.svg"></code>
+  <code><img width="5%" height="3%" src="https://imguploader.net/if/VJuQJGCkSn9R.svg"></code>
    <br/>
-   <code><img width="5%" src="https://imguploader.net/if/ionLlyZGtbUI.svg"</code>
-         <code><img width="5%" src="https://imguploader.net/if/KvDLPivzvyxK.svg"</code>
+   <code><img width="5%" height="3%" src="https://imguploader.net/if/ionLlyZGtbUI.svg"</code>
+   <code><img width="5%" height="3%" src="https://imguploader.net/if/KvDLPivzvyxK.svg"</code>
 </p>
 <br/>
 

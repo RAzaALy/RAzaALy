@@ -34,17 +34,13 @@
   <code><img width="5%" height="3%" src="https://imguploader.net/if/jhYssZzjiE5S.svg"></code>
   <code><img width="5%" height="3%" src="https://imguploader.net/if/MtZ1UGYRP3p8.svg"></code>
   <br />
-   
   <code><img width="5%" height="3%" src="https://imguploader.net/if/gxuBCIi8OZl1.svg"></code>
   <code><img width="5%" height="3%" src="https://imguploader.net/if/gUkZXWAHUlo3.svg"></code>
-   <br />
    <code><img width="5%" height="3%" src="https://imguploader.net/if/7vgzFLEOHscl.svg"></code>
   <code><img width="5%" height="3%" src="https://imguploader.net/if/MuVjmGoILJM4.svg"></code>
   <code><img width="5%" height="3%" src="https://imguploader.net/if/NpwdltZrKxU7.svg"></code>
+   <br/>   
   <code><img width="5%" height="3%" src="https://imguploader.net/if/VJuQJGCkSn9R.svg"></code>
-   <br/>
    <code><img width="5%" height="3%" src="https://imguploader.net/if/ionLlyZGtbUI.svg"</code>
    <code><img width="5%" height="3%" src="https://imguploader.net/if/KvDLPivzvyxK.svg"</code>
 </p>
-<br/>
-

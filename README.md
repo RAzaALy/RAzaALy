@@ -20,12 +20,10 @@
   <code><img width="5%" height="3%"  src="https://imguploader.net/if/89K9jCr7nTCD.svg"></code>
   <code><img width="5%" height="3%"  src="https://imguploader.net/if/HUT9hpjVufpM.svg"></code>
   <code><img width="5%" height="3%"  src="https://imguploader.net/if/1FbXZ5FhEUr9.svg"></code>
-  <br />
   <code><img width="5%" height="3%"  src="https://imguploader.net/if/o32nXVGGqv3J.svg"></code>
+    <br />
   <code><img width="5%" height="3%"  src="https://imguploader.net/if/0FwrBlyxlRrY.svg"></code>
   <code><img width="5%" height="3%"  src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg"></code>
-
-  <br />
   <code><img width="5%" height="3%"  src="https://imguploader.net/if/uG2z2NYpbkLK.svg"></code>
   <code><img width="5%" height="3%"  src="https://imguploader.net/if/HBqxjLBwJe0R.svg"></code>
   <code><img width="5%" height="3%"  src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg"></code>
@@ -33,9 +31,10 @@
   <code><img width="5%" height="3%" src="https://imguploader.net/if/5laSGnWFyEGg.svg"></code>
   <code><img width="5%" height="3%" src="https://imguploader.net/if/BVGRO42f8dLX.svg"></code>
    <code><img width="5%" height="3%" src="https://imguploader.net/if/28jRMgow8x4g.svg"></code>
-  <br />
   <code><img width="5%" height="3%" src="https://imguploader.net/if/jhYssZzjiE5S.svg"></code>
   <code><img width="5%" height="3%" src="https://imguploader.net/if/MtZ1UGYRP3p8.svg"></code>
+  <br />
+   
   <code><img width="5%" height="3%" src="https://imguploader.net/if/gxuBCIi8OZl1.svg"></code>
   <code><img width="5%" height="3%" src="https://imguploader.net/if/gUkZXWAHUlo3.svg"></code>
    <br />

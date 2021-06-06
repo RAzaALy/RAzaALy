@@ -10,8 +10,8 @@
 ### Languages and Tools 🛠 
 
 <p>
-   <code><img width="10%" height="5%"  src="https://imguploader.net/if/sQVO4XWTU7Yu.svg"></code>
-   <code><img width="10%" height="5%" src="https://imguploader.net/if/QQcGwbHIPrin.svg"></code>
+   <code><img width="8%" height="3%"  src="https://imguploader.net/if/sQVO4XWTU7Yu.svg"></code>
+   <code><img width="8%" height="3%" src="https://imguploader.net/if/QQcGwbHIPrin.svg"></code>
 
   <code><img width="15%" src="https://imguploader.net/if/ZUPy79DfP3bh.svg"></code>
   <code><img width="15%" src="https://imguploader.net/if/VOnPfcq9Uvmn.svg"></code>

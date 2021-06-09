@@ -8,7 +8,6 @@
 - ⚡ Fun fact: I love to play badminton 🏸.
 
 ### Languages and Tools 🛠 
-
 <p>
    <code><img width="10%" height="3%"  src="https://imguploader.net/if/sQVO4XWTU7Yu.svg"></code>
    <code><img width="10%" height="3%" src="https://imguploader.net/if/QQcGwbHIPrin.svg"></code>

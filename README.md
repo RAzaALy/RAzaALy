@@ -34,6 +34,9 @@
   <code><img width="10%" height="3%" src="https://imguploader.net/if/VJuQJGCkSn9R.svg"></code>
   <code><img width="10%" height="3%" src="https://imguploader.net/if/jhYssZzjiE5S.svg"></code>
   <br />
+   <code><img width="10%" height="3%" src="https://imguploader.net/if/m4mYmgJu8obw.svg"></code>
+   <code><img width="10%" height="3%" src="https://imguploader.net/if/cD826FojQQy1.svg"></code>
+   <br />
   <code><img width="10%" height="3%" src="https://imguploader.net/if/gxuBCIi8OZl1.svg"></code>
   <code><img width="10%" height="3%" src="https://imguploader.net/if/gUkZXWAHUlo3.svg"></code>
    <code><img width="10%" height="3%" src="https://imguploader.net/if/7vgzFLEOHscl.svg"></code>

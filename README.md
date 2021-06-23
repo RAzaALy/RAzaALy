@@ -1,17 +1,18 @@
 # Thanks for landing at my Github Profile 🚀 🚀 🚀
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
+
 # Who I am ?
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React,Redux,Nextjs etc.
 - 📚 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play badminton 🏸.
-<br>
+<br />
 # Responsibilities
 - Developing new user-facing features using React.js.
 - Building reusable components and front-end libraries for future use.
 - Translating designs and wireframes into high quality code.
 - Optimizing components for maximum performance across a vast array of web-capable devices and browsers.
-<br>
+<br />
 # Tech Stack 🧰 🛠 
 <p>
    <code><img width="10%" height="3%"  src="https://imguploader.net/if/sQVO4XWTU7Yu.svg"></code>

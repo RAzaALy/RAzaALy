@@ -54,6 +54,7 @@
    <code><img width="10%" height="3%" src="https://imguploader.net/if/cD826FojQQy1.svg"></code>
    <code><img width="10%" height="3%" src="https://imguploader.net/if/MtZ1UGYRP3p8.svg"></code>
    <br/>   
+   <code><img width="10%" height="3%" src="https://imguploader.net/if/F3fXz4HfPEX2.svg"</code>
    <code><img width="10%" height="3%" src="https://imguploader.net/if/jhYssZzjiE5S.svg"></code>
    <code><img width="10%" height="3%" src="https://imguploader.net/if/ionLlyZGtbUI.svg"</code>
    <code><img width="10%" height="3%" src="https://imguploader.net/if/9qovhHOkf8mc.svg"</code>
@@ -61,6 +62,3 @@
 <br />
       
 # Contact Me
-      [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-      [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-      [3.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)

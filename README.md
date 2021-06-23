@@ -60,9 +60,7 @@
    <code><img width="10%" height="3%" src="https://imguploader.net/if/9qovhHOkf8mc.svg"</code>
  </p>
 
-
-# Social Links
-
+## Social Links
 <p align="center">
   <a href="https://darkwood.fr"><img src="https://img.icons8.com/fluent/64/000000/domain.png" alt="darkwood"/></a>
   <a href="mailto:matyo91@gmail.com"><img src="https://img.icons8.com/color/64/000000/gmail.png" alt="email"/></a>

@@ -65,15 +65,15 @@
 
 <p align="center">
   <a href="https://darkwood.fr"><img src="https://img.icons8.com/fluent/64/000000/domain.png" alt="darkwood"/></a>
-  <a href="mailto:matyo91@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.facebook.com/matyo91"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/>
-  <a href="https://www.instagram.com/matyo91"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/>
-  <a href="https://fr.pinterest.com/matyo91"><img src="https://img.icons8.com/cotton/96/000000/whatsapp--v4.png"/>
+  <a href="mailto:matyo91@gmail.com"><img src="https://img.icons8.com/color/64/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.facebook.com/matyo91"><img src="https://img.icons8.com/color/64/000000/facebook.png" alt="facebook"/>
+  <a href="https://www.instagram.com/matyo91"><img src="https://img.icons8.com/color/64/000000/instagram-new.png" alt="instagram"/>
+  <a href="https://fr.pinterest.com/matyo91"><img src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>
    </a>
-  <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.reddit.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
-  <a href="https://fr.pinterest.com/matyo91"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest"/></a>
-  <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://open.spotify.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
-  <a href="https://stackoverflow.com/users/4027349/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
+  <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/64/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.reddit.com/user/matyo91"><img src="https://img.icons8.com/color/64/000000/reddit.png" alt="reddit"/></a>
+  <a href="https://fr.pinterest.com/matyo91"><img src="https://img.icons8.com/color/64/000000/pinterest--v1.png" alt="pinterest"/></a>
+  <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/64/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://open.spotify.com/user/matyo91"><img src="https://img.icons8.com/color/64/000000/spotify--v1.png" alt="spotify"/></a>
+  <a href="https://stackoverflow.com/users/4027349/mathieu-ledru"><img src="https://img.icons8.com/color/64/000000/stackoverflow.png" alt="stackoverflow"/></a>
 </p>

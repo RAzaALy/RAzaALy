@@ -68,10 +68,10 @@
 <p align="center">
   <a href="https://darkwood.fr"><img src="https://img.icons8.com/fluent/64/000000/domain.png" alt="darkwood"/></a>
   <a href="mailto:007razajutt@gmail.com"><img src="https://img.icons8.com/color/64/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.facebook.com/RAzaALy"><img src="https://img.icons8.com/color/64/000000/facebook.png" alt="facebook"/>
+  <a href="https://www.facebook.com/RAza ALy"><img src="https://img.icons8.com/color/64/000000/facebook.png" alt="facebook"/>
   <a href="https://www.instagram.com/razaly007"><img src="https://img.icons8.com/color/64/000000/instagram-new.png" alt="instagram"/>
      <a href="https://twitter.com/@RAzaALy4"><img src="https://img.icons8.com/color/64/000000/twitter-squared.png" alt="twitter"/></a>
-     <a href="linkedin.com/in/raza-aly-18b003216"><img src="https://img.icons8.com/color/64/000000/linkedin.png" alt="linkedin"/></a>
+     <a href="https://linkedin.com/in/raza-aly-18b003216"><img src="https://img.icons8.com/color/64/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://fr.pinterest.com/matyo91"><img src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>
    </a>
   <a href="https://www.reddit.com/user/raza"><img src="https://img.icons8.com/color/64/000000/reddit.png" alt="reddit"/></a>

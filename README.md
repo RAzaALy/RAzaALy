@@ -19,6 +19,7 @@
 - Reviewing application requirements and interface designs.
 - Meeting with the development team to discuss user interface ideas and applications.
 - Optimizing components for maximum performance across a vast array of web-capable devices and browsers.
+- Problem solving approach.
 
 ## Tech Stack 🧰 🛠 
 <p>

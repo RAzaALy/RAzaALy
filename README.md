@@ -72,8 +72,6 @@
   <a href="https://www.instagram.com/razaly007"><img src="https://img.icons8.com/color/64/000000/instagram-new.png" alt="instagram"/>
      <a href="https://twitter.com/@RAzaALy4"><img src="https://img.icons8.com/color/64/000000/twitter-squared.png" alt="twitter"/></a>
      <a href="https://linkedin.com/in/raza-aly-18b003216"><img src="https://img.icons8.com/color/64/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://fr.pinterest.com/RAzaALy"><img src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>
-   </a>
   <a href="https://www.reddit.com/user/RAzaALy"><img src="https://img.icons8.com/color/64/000000/reddit.png" alt="reddit"/></a>
   <a href="https://fr.pinterest.com/RAzaALy"><img src="https://img.icons8.com/color/64/000000/pinterest--v1.png" alt="pinterest"/></a>
   <a href="https://open.spotify.com/user/RAzaALy"><img src="https://img.icons8.com/color/64/000000/spotify--v1.png" alt="spotify"/></a>

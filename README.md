@@ -45,12 +45,6 @@
    <code><img width="10%" height="3%"  src="https://imguploader.net/if/HBqxjLBwJe0R.svg"></code>
    <code><img width="10%" height="3%"  src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg"></code>
   <br />
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/obaSCVjGQngi.svg"></code>
-   <code><img width="10%" height="3%" color="white" src="https://imguploader.net/if/PJgaIc7mNWws.svg"></code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/twDDqI7svRpg.svg"></code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/KLWRi62N7prB.jpg"></code>
- 
-  <br />
    <code><img width="10%" height="3%" src="https://imguploader.net/if/5laSGnWFyEGg.svg"></code>
    <code><img width="10%" height="3%" src="https://imguploader.net/if/BVGRO42f8dLX.svg"></code>
    <code><img width="10%" height="3%" src="https://imguploader.net/if/28jRMgow8x4g.svg"></code>
@@ -74,6 +68,10 @@
    <code><img width="10%" height="3%" src="https://imguploader.net/if/jhYssZzjiE5S.svg"></code>
    <code><img width="10%" height="3%" src="https://imguploader.net/if/ionLlyZGtbUI.svg"</code>
    <code><img width="10%" height="3%" src="https://imguploader.net/if/9qovhHOkf8mc.svg"</code>
+   <code><img width="10%" height="3%" src="https://imguploader.net/if/obaSCVjGQngi.svg"></code>
+   <code><img width="10%" height="3%" style="color: white" src="https://imguploader.net/if/PJgaIc7mNWws.svg"></code>
+   <code><img width="10%" height="3%" src="https://imguploader.net/if/twDDqI7svRpg.svg"></code>
+   <code><img width="10%" height="3%" src="https://imguploader.net/if/KLWRi62N7prB.jpg"></code>
  </p>
       
 # Contact Me

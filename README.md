@@ -71,7 +71,6 @@
    <code><img width="10%" height="3%" src="https://imguploader.net/if/obaSCVjGQngi.svg"></code>
    <code><img width="10%" height="3%" style="color: white" src="https://imguploader.net/if/PJgaIc7mNWws.svg"></code>
    <code><img width="10%" height="3%" src="https://imguploader.net/if/twDDqI7svRpg.svg"></code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/KLWRi62N7prB.jpg"></code>
  </p>
       
 # Contact Me

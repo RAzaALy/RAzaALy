@@ -16,8 +16,12 @@
 - Building reusable components and front-end libraries.
 - Translating designs and wireframes into high quality code.
 - Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model.
+- Deep understanding with advanced Javascript concepts, such as Prototype, Closure, Scope Chain and Promise. 
 - Reviewing application requirements and interface designs.
+- Expertise in using React.js/Redux to build User Interface, strong knowledge of state store, middleware, action creator, reducer and container.
+- Strong knowledge in MERN Stack with vast experience in building Web Applications, used React.js for client side, Node.js/Express for server side and MongoDB for database. 
 - Meeting with the development team to discuss user interface ideas and applications.
+- Team player with excellent communication, Trouble shooting, Debugging and Strong analytical problem solving skills to deliver Technology products and consulting solutions. 
 - Optimizing components for maximum performance across a vast array of web-capable devices and browsers.
 - Problem solving approach.
 

@@ -2,13 +2,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
 
 ## Summary
- I'm creative, collaborator and leveraging my experience as a MERN STACK
-        Web Developer and concentrate on elegant design and user experiences. I
-        hold hands-on experience in identifying web-based user interactions
-        simultaneously with designing and implementing highly responsive user
-        interface components by deploying react concept. Proficient in
-        translating designs and wireframes into high-quality code, and writing
-        application interface code via Javascript and ReactJs workflows.
+  I'm creative, collaborator and leveraging my experience as a Fullstack Web Developer and concentrate on elegant design and user experiences. I hold hands-on experience in identifying web-based user interactions simultaneously with designing and implementing highly responsive user interface components by deploying react concept. Proficient in translating designs and wireframes into high-quality code, and writing application interface code via Javascript and ReactJs workflows.Extensive use of Node J$ environment using NPM, Mongo DB and Express.J$ along with Mongoose.J$ to create server side applications.Responsible for creating RESTFUL Web Services to serve data to the front-end application in JSON format. Expertise in creating the user validation forms and using the RESTful services for sending the data to the server.
 <br />
 
 ## Skills

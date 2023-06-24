@@ -2,70 +2,102 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
 
 ## Summary
-  I'm creative, collaborator and leveraging my experience as a Fullstack Web Developer and concentrate on elegant design and user experiences. I hold hands-on experience in identifying web-based user interactions simultaneously with designing and implementing highly responsive user interface components by deploying react concept. Proficient in translating designs and wireframes into high-quality code, and writing application interface code via Javascript and ReactJs workflows.Extensive use of Node J$ environment using NPM, Mongo DB and Express.J$ along with Mongoose.J$ to create server side applications.Responsible for creating RESTFUL Web Services to serve data to the front-end application in JSON format. Expertise in creating the user validation forms and using the RESTful services for sending the data to the server.
+
+I'm a creative, collaborator and leverage my experience as a Specialist Javascript Developer and concentrate on elegant design and creating innovative and user-friendly web applications. Experienced React Developer with a proven track record of designing and implementing robust, scalable, high-performance web applications. I have a solid understanding of JavaScript and its modern frameworks, specializing in React and its ecosystem. With a strong emphasis on clean and efficient code, I strive to deliver high-quality software solutions that meet client requirements.
+My areas of expertise include developing responsive user interfaces, integrating APIs, unit testing (Jest, Enzyme), debugging techniques, version control management, and improving application performance. To create smooth and simple user experiences, I prefer working with cross-functional teams that include designers and back-end developers.
+Part of my personal experience includes learning new things, getting socialized, and even taking the initiative.
+
+
 <br />
 
 ## Skills
 - Developing new user-facing features using React.js.
 - Building reusable components and front-end libraries.
-- Translating designs and wireframes into high quality code.
+- Translating designs and wireframes into high-quality code.
 - Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model.
-- Deep understanding with advanced Javascript concepts, such as Prototype, Closure, Scope Chain and Promise. 
+- Deep understanding of advanced Javascript concepts, such as Prototype, Closure, Scope Chain, and Promise. 
 - Reviewing application requirements and interface designs.
-- Expertise in using React.js/Redux to build User Interface, strong knowledge of state store, middleware, action creator, reducer and container.
-- Strong knowledge in MERN Stack with vast experience in building Web Applications, used React.js for client side, Node.js/Express for server side and MongoDB for database. 
+- Expertise in using React.js/Redux to build User Interfaces, strong knowledge of state store, middleware, action creator, reducer, and container.
+- Strong knowledge of MERN Stack with vast experience in building Web Applications, using React.js for the client side, Node.js/Express for the server side, and MongoDB for the database. 
 - Meeting with the development team to discuss user interface ideas and applications.
-- Team player with excellent communication, Trouble shooting, Debugging and Strong analytical problem solving skills to deliver Technology products and consulting solutions. 
+- Team player with excellent communication, Troubleshooting, Debugging, and Strong analytical problem-solving skills to deliver Technology products and consulting solutions. 
 - Optimizing components for maximum performance across a vast array of web-capable devices and browsers.
-- Problem solving approach.
+- Problem-solving approach.
 
 ## Tech Stack 🧰 🛠 
-<p>
-   <code><img width="10%" height="3%"  src="https://imguploader.net/if/sQVO4XWTU7Yu.svg"></code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/QQcGwbHIPrin.svg"></code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/ZUPy79DfP3bh.svg"></code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/VOnPfcq9Uvmn.svg"></code>
-   <code><img width="10%" height="3%"  src="https://imguploader.net/if/NdEtBrWFMfIW.svg"></code>
-   <code><img width="10%" height="3%"  src="https://imguploader.net/if/yJWZRgVUbtnp.svg"></code>
-   <code><img width="10%" height="3%"  src="https://imguploader.net/if/89K9jCr7nTCD.svg"></code>
-   <code><img width="10%" height="3%"  src="https://imguploader.net/if/HUT9hpjVufpM.svg"></code>
-   <br />
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/VGlWjsEuDzjz.svg"></code>
-   <code><img width="10%" height="3%"  src="https://imguploader.net/if/1FbXZ5FhEUr9.svg"></code>
-   <code><img width="10%" height="3%"  src="https://imguploader.net/if/o32nXVGGqv3J.svg"></code>
-   <code><img width="10%" height="3%"  src="https://imguploader.net/if/0FwrBlyxlRrY.svg"></code>
-   <code><img width="10%" height="3%"  src="https://upload.vectorlogo.zone/logos/nextjs/images/2d3864ef-00e0-4026-ab1d-30e4a98e2899.svg"></code>
-   <code><img width="10%" height="3%"  src="https://imguploader.net/if/uG2z2NYpbkLK.svg"></code>
-   <code><img width="10%" height="3%"  src="https://imguploader.net/if/HBqxjLBwJe0R.svg"></code>
-   <code><img width="10%" height="3%"  src="https://raw.githubusercontent.com/styled-components/brand/bde053200192814dcd55923b6e41884d18e51665/styled-components.svg"></code>
-  <br />
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/5laSGnWFyEGg.svg"></code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/BVGRO42f8dLX.svg"></code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/28jRMgow8x4g.svg"></code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/VJuQJGCkSn9R.svg"></code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/m4mYmgJu8obw.svg"></code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/On0BKaWa0kEN.svg"></code> 
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/UP47kFbSoHBw.svg"></code> 
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/M3zBZTxnWtwC.svg"</code>
-   <br />
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/gxuBCIi8OZl1.svg"></code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/gUkZXWAHUlo3.svg"></code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/7vgzFLEOHscl.svg"></code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/MuVjmGoILJM4.svg"></code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/NpwdltZrKxU7.svg"></code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/ibmfdxj1ThJ6.svg"</code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/cD826FojQQy1.svg"></code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/MtZ1UGYRP3p8.svg"></code>
-   <br/>   
-    <code><img width="10%" height="3%"  src="https://imguploader.net/if/yQlVurd3W16A.svg"></code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/F3fXz4HfPEX2.svg"</code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/jhYssZzjiE5S.svg"></code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/ionLlyZGtbUI.svg"</code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/9qovhHOkf8mc.svg"</code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/obaSCVjGQngi.svg"></code>
-   <code><img width="10%" height="3%" style="color: white" src="https://imguploader.net/if/PJgaIc7mNWws.svg"></code>
-   <code><img width="10%" height="3%" src="https://imguploader.net/if/twDDqI7svRpg.svg"></code>
- </p>
+ Services I provide:
+
+Frontend Stack 🛠️
+
+React js.
+Next js
+Javascript
+Redux, Redux Toolkit, React Query (State Management Tools)
+React form with Formik and Yup (Form Validation)
+React table with searching, pagination, sorting, filtering
+Integration of third-party libraries.
+Tailwind CSS
+Material UI
+Ant Design
+Typescript
+Firebase
+Deployment
+Payment Gateway
+API'S Integration
+Grapql
+Apollo
+
+Backend Stack 🛠️
+
+Node js.
+Express
+MongoDB
+MYSQL
+SQL
+SEQUALIZE (ORM)
+Javascript
+Typescript
+Firebase
+Integration of third-party libraries.
+Stripe
+Twilio
+Sendgrid
+Authentication (Google, Facebook, etc)
+Deployment
+Payment Gateway
+API'S Integration
+Grapql
+Apollo Server
+Add new features to an existing project
+
+I worked on these kinds of websites and applications:
+
+✔ CRM (B2B B2C)
+✔ ERP
+✔ PWA
+✔ Ecommerce Web Apps
+✔ Crypto Chat App (end-to-end encryption)
+✔ Static Web Application.
+✔ Dynamic Web Application.
+✔ Online Shopping Management
+✔ Portal Web Applications
+✔ Animated Web Apps
+✔ Single Page Web Apps
+✔ Much More
+
+Why choose me:
+
+Developing a website is not the end of the world, there is always more.
+
+Code Optimizing
+Clean code with proper commenting.
+Bugs Free Code.
+100% client satisfaction.
+Reliable
+Money-back guarantee.
+
+let's work together.
+✉️ Feel free to message me and let's make a strong business relationship.
       
 # Contact Me
 <p align="center">

@@ -3,7 +3,7 @@
 
 ## Summary
 
-With more than five years of expertise in Web, I'm a creative, collaborator and leverage my experience as a Specialist React Developer with a strong focus on React and Next JS. Skilled React Developer with a proven track record of designing and implementing robust, scalable, high-performance web applications. I have a solid understanding of JavaScript and its modern frameworks, specializing in React and its ecosystem. With a strong emphasis on clean and efficient code, I strive to deliver high-quality software solutions that meet client and product requirements.
+With more than five years of expertise in Web, I'm a creative, collaborator and leverage my experience as a Specialist Full Stack Developer with a strong focus on React and Next JS. Skilled React Developer with a proven track record of designing and implementing robust, scalable, high-performance web applications. I have a solid understanding of JavaScript and its modern frameworks, specializing in React and its ecosystem. With a strong emphasis on clean and efficient code, I strive to deliver high-quality software solutions that meet client and product requirements.
 
 A part of my personal experience includes learning new things getting socialized and even more taking initiative.
 

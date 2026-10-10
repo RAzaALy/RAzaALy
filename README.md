@@ -1,125 +1,108 @@
-# Thanks for landing at my Github Profile 🚀 🚀 🚀
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
+# Hi, I'm Raza Aly 👋
 
-## Summary
+### Senior Frontend / Full-Stack Engineer · React · Next.js · TypeScript · Node.js · AI-Native
 
-From an early age, I  have been drawn to technology and its potential to make a meaningful impact on people's lives. With over 5 years of experience in Web Development, I leverage my experience as a Specialist Full Stack Developer with a strong focus on React and Node JS. Experienced Frontend Engineer with a proven track record of designing and implementing robust, scalable, high-performance web applications. I have a solid understanding of JavaScript and its modern frameworks, specializing in React, Next.js, Node.js, and their ecosystem. With a strong emphasis on clean and efficient code, I strive to deliver high-quality software solutions that meet client and product requirements.
-My areas of expertise include developing responsive user interfaces, integrating APIs,  unit testing (TDD, Jest, Enzyme), debugging techniques, version control management, and improving application performance. To create smooth and simple user experiences, I prefer working with cross-functional teams that include designers and back-end developers, and also aware of the Agile Methodology of working.
+**I build SaaS and Enterprise web apps from 0 → 1, then scale them.** Fast, accessible, data-heavy products for B2B teams, shipped end to end: UI, APIs, data, tests and production.
 
-A part of my personal experience includes learning new things getting socialized and even more taking initiative.
+- 🏥 **Now:** Senior Engineer at **MacroSoft**, building the **Norstella Fusion Portal**, a US enterprise healthcare data and analytics platform
+- ⚡ **Impact:** cut page loads and API latency by **~25 to 30%** on large datasets
+- 🧩 **Design systems:** built the **NXP Design System**, a Storybook component library published on npm and used across company projects (**~25% faster** feature UI builds)
+- 🤖 **AI-native:** Claude Code daily, my own **MCP servers**, Claude API features with tool use, structured output and guardrails
+- ✅ **Quality:** TDD, **80%+ test coverage**, WCAG 2.1 AA accessibility
+- 🌍 **Open to:** new opportunities, remote or on-site
 
+---
 
-<br />
+## 🛠️ Tech Stack
 
-## Skills
-- Developing new user-facing features using React.js.
-- Building reusable components and front-end libraries.
-- Translating designs and wireframes into high-quality code.
-- Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model.
-- Deep understanding of advanced Javascript concepts, such as Prototype, Closure, Scope Chain, and Promise. 
-- Reviewing application requirements and interface designs.
-- Expertise in using React.js/Redux to build User Interfaces, strong knowledge of state store, middleware, action creator, reducer, and container.
-- Strong knowledge of MERN Stack with vast experience in building Web Applications, using React.js for the client side, Node.js/Express for the server side, and MongoDB for the database. 
-- Meeting with the development team to discuss user interface ideas and applications.
-- Team player with excellent communication, Troubleshooting, Debugging, and Strong analytical problem-solving skills to deliver Technology products and consulting solutions. 
-- Optimizing components for maximum performance across a vast array of web-capable devices and browsers.
-- Problem-solving approach.
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-🛠️ Services I Provide :
+**Backend & Data**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-🧰 Frontend Expertise
+**Testing, Cloud & DevOps**
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat&logo=testinglibrary&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-• React.js.
-• Next.js
-• JavaScript
-• Redux, Redux Toolkit, React Query (State Management Tools)
-• React form with Formik and Yup (Form Validation)
-• React table with searching, pagination, sorting, filtering
-• Developing responsive user interfaces and Reusable React components
-• Client Side Rendering, Static Site Generation, Server Side Rendering
-• Integration of third-party libraries.
-• Tailwind CSS
-• Material UI
-• Ant Design
-• TypeScript
-• Firebase
-• Deployment
-• Payment Gateway
-• API'sIntegration
-• GraphQL
-• Apollo
+**AI Engineering**
+![Claude](https://img.shields.io/badge/Claude_Code_&_API-D97757?style=flat&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-111111?style=flat)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
 
-🧰 Backend Expertise
+---
 
-• Node.js
-• Express
-• MongoDB
-• MySQL
-• SQL
-• Sequelize (ORM)
-• JavaScript
-• TypeScript
-• Firebase
-• Third-party libraries integration
-• Stripe
-• Twilio
-• SendGrid
-• Authentication (Google, Facebook, etc.)
-• Deployment
-• Payment Gateway
-• API Integration
-• GraphQL
-• Apollo Server
-• Feature enhancement for existing projects
+## 💼 Experience at a Glance
 
-🧰 Quality Assurance
+| Role | Company and product | What I delivered |
+|---|---|---|
+| **Senior Full-Stack / Frontend Engineer** · Sep 2024 to now | MacroSoft · Norstella Fusion Portal (US healthcare data platform) | Core modules end to end, NXP Design System on npm, ~25 to 30% faster loads, Claude API features, mentoring two engineers |
+| **Senior Software Engineer** · Aug 2023 to Aug 2024 | MacroSoft · SurePoint (US legal-tech SaaS) | Billing, timekeeping and payment modules for large law firms, GraphQL layer across five product areas, introduced TDD |
+| **Software Engineer** · Nov 2021 to Jul 2023 | Nextbridge · Regiekr8 LMS and Phone Pay | React and Node.js features for schools, React Native screens, D3.js reporting views |
+| **Software Engineer** · Jan 2020 to Nov 2021 | LastingSales · B2B CRM (Canada) | Built the CRM from scratch as the sole engineer: React, Node.js / Express, MongoDB, Socket.io real-time updates |
 
-• Manual Testing, Automated Testing, Unit Testing
-• React Testing Library, Jest, Enzype, Cypress, Agile
-• TDD, BDD
+---
 
-I have a rich and diverse portfolio of experience in developing a wide range of websites and applications. My expertise spans various domains and includes:
+## 🎯 How I Work
 
-✓ CRM (B2B and B2C)
-✓ ERP (Enterprise Resource Planning)
-✓ Healthcare Applications
-✓ PWA (Progressive Web Apps)
-✓ Ecommerce Web Apps
-✓ Crypto Chat Apps (end-to-end encryption)
-✓ Dynamic Web Application
-✓ SaaS Products
-✓ Portal Web Applications
-✓ Single Page Web Apps
-✓ Education and E-Learning (LMS)
-✓ Finance and Banking
-✓ Real Estate and Property Management
-✓ NextGen Software
+- **Ownership:** from a vague idea to a scoped plan to production, with Product and Design at the table
+- **Performance first:** code splitting, caching, streaming SSR, query tuning and N+1 elimination
+- **Accessibility as a baseline:** semantic HTML, ARIA, keyboard navigation, NVDA and VoiceOver testing
+- **AI with judgment:** I let agents scaffold, test and refactor, and I keep humans on architecture and security. Every AI change gets reviewed.
+- **Security aware:** OAuth2 / OIDC, JWT, RBAC, OWASP Top-10, XSS and CSRF hardening
 
-🚀 What sets me apart?
-Developing a website is not the end of the world 🌐, there is always more.
+---
 
-📐 Coding Standards and Best Practices
-🚀 Performance Optimization and Debugging Techniques
-📊 Analytics and Tracking
-✔️ Testing and Quality Assurance
-📈 Scalability and Accessibility
-🛠️ Version Control Management, Code Optimizing and Bugs Free Code
-💬 Clean Code with Proper Documentation
-💯% client satisfaction.
+## 📌 Featured Work
 
-Let's work together.
-💬 Feel free to message me and let's make a strong business relationship.
-      
-# Contact Me
-<p align="center">
-  <a href="https://raza-portfolio.vercel.app"><img src="https://img.icons8.com/fluent/64/000000/domain.png" alt="darkwood"/></a>
-  <a href="mailto:007razajutt@gmail.com"><img src="https://img.icons8.com/color/64/000000/gmail.png" alt="email"/></a>
-     <a href="https://twitter.com/@RAzaALy4"><img src="https://img.icons8.com/color/64/000000/twitter-squared.png" alt="twitter"/></a>
-     <a href="https://linkedin.com/in/raza-aly-18b003216"><img src="https://img.icons8.com/color/64/000000/linkedin.png" alt="linkedin"/></a>
-   <a href=""><img src="https://img.icons8.com/color/64/000000/facebook.png" alt="facebook"/>
-  <a href="https://www.instagram.com/razaly007"><img src="https://img.icons8.com/color/64/000000/instagram-new.png" alt="instagram"/>
-  <a href="https://ro.pinterest.com/007razajutt"><img src="https://img.icons8.com/color/64/000000/pinterest--v1.png" alt="pinterest"/></a>
-  <a href="https://open.spotify.com/user/8dbv9nam4rcpw7l5gmbgqktmn"><img src="https://img.icons8.com/color/64/000000/spotify--v1.png" alt="spotify"/></a>
-    <a href="https://www.reddit.com/user/RAzaALy"><img src="https://img.icons8.com/color/64/000000/reddit.png" alt="reddit"/></a>
-   <a href="https://stackoverflow.com/users/4027349/RAzaALy"><img src="https://img.icons8.com/color/64/000000/stackoverflow.png" alt="stackoverflow"/></a>
-</p>
+| Project | Stack | What it shows |
+|---|---|---|
+| [**EngiVault**](https://github.com/RAzaALy/Engivalut/tree/main/demos/engivault) | TypeScript, Astro (SSR), React, Node.js, SQLite, EmDash CMS, LLM API, Vitest | AI engineering knowledge hub: full-text search plus a retrieval-grounded AI assistant that answers only from retrieved docs and cites every source; ADRs documented |
+| [**News Aggregator**](https://github.com/RAzaALy/news-aggregator) | React, TypeScript, Vite, Tailwind CSS, React Query | Server-state caching, responsive UI, clean component structure |
+| [**EasyGen Auth App**](https://github.com/RAzaALy/easyGenTask) · [live demo](https://easy-gen-frontend-razaalys-projects.vercel.app) | React, TypeScript, Formik, Yup | Sign-up and login flows, form validation, responsive design |
+
+> 👇 More code samples in my pinned repositories below. Most of my professional work (Norstella, SurePoint) is private client code.
+
+---
+
+## 📜 Certifications
+
+- Deep JavaScript Foundations v3 · Kyle Simpson, Frontend Masters
+- TypeScript 5+ Fundamentals v4 · Mike North, Frontend Masters
+- Introduction to Next.js 13+ v3 · Scott Moss, Frontend Masters
+- Claude API, Model Context Protocol (MCP) and Agent Skills · Anthropic
+
+---
+
+## 📫 Let's Connect
+
+I'm open to **Senior Frontend, Full-Stack and Product Engineer** roles. Happy to talk about remote, hybrid or relocation.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/razaaly)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://raza-aly-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raza.aly.dev@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/4027349/RAzaALy)
